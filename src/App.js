@@ -8,10 +8,10 @@ import {
 
 import Header from './components/headerComponent/header';
 import Footer from './components/footerComponent/footer';
-import Homepage from './components/headerComponent/pages/homePage';
-import Products from './components/headerComponent/pages/products';
-import Contacts from './components/headerComponent/pages/contacts';
-import About from './components/headerComponent/pages/about';
+import Homepage from './components/pages/homePage';
+import Products from './components/pages/products';
+import Contacts from './components/pages/contacts';
+import About from './components/pages/about';
 import './Assets/css/default.min.css';
 import './Assets/scss/default.scss';
 
