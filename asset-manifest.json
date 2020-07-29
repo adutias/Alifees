@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alifees/static/css/main.2e700dc6.chunk.css",
+    "main.js": "/Alifees/static/js/main.ad2ccbc8.chunk.js",
+    "main.js.map": "/Alifees/static/js/main.ad2ccbc8.chunk.js.map",
+    "runtime-main.js": "/Alifees/static/js/runtime-main.9a7ebf78.js",
+    "runtime-main.js.map": "/Alifees/static/js/runtime-main.9a7ebf78.js.map",
+    "static/js/2.01fa02f7.chunk.js": "/Alifees/static/js/2.01fa02f7.chunk.js",
+    "static/js/2.01fa02f7.chunk.js.map": "/Alifees/static/js/2.01fa02f7.chunk.js.map",
+    "index.html": "/Alifees/index.html",
+    "precache-manifest.70b8093bd89a3f36a23c431c943cf3d3.js": "/Alifees/precache-manifest.70b8093bd89a3f36a23c431c943cf3d3.js",
+    "service-worker.js": "/Alifees/service-worker.js",
+    "static/css/main.2e700dc6.chunk.css.map": "/Alifees/static/css/main.2e700dc6.chunk.css.map",
+    "static/js/2.01fa02f7.chunk.js.LICENSE.txt": "/Alifees/static/js/2.01fa02f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a7ebf78.js",
+    "static/js/2.01fa02f7.chunk.js",
+    "static/css/main.2e700dc6.chunk.css",
+    "static/js/main.ad2ccbc8.chunk.js"
+  ]
+}
