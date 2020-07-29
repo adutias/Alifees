@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Alifees/homepage/static/css/main.2e700dc6.chunk.css",
-    "main.js": "/Alifees/homepage/static/js/main.b358196c.chunk.js",
-    "main.js.map": "/Alifees/homepage/static/js/main.b358196c.chunk.js.map",
-    "runtime-main.js": "/Alifees/homepage/static/js/runtime-main.424a8422.js",
-    "runtime-main.js.map": "/Alifees/homepage/static/js/runtime-main.424a8422.js.map",
-    "static/js/2.01fa02f7.chunk.js": "/Alifees/homepage/static/js/2.01fa02f7.chunk.js",
-    "static/js/2.01fa02f7.chunk.js.map": "/Alifees/homepage/static/js/2.01fa02f7.chunk.js.map",
-    "index.html": "/Alifees/homepage/index.html",
-    "precache-manifest.5ea5f1730662b8cf7765b6c7a3b22777.js": "/Alifees/homepage/precache-manifest.5ea5f1730662b8cf7765b6c7a3b22777.js",
-    "service-worker.js": "/Alifees/homepage/service-worker.js",
-    "static/css/main.2e700dc6.chunk.css.map": "/Alifees/homepage/static/css/main.2e700dc6.chunk.css.map",
-    "static/js/2.01fa02f7.chunk.js.LICENSE.txt": "/Alifees/homepage/static/js/2.01fa02f7.chunk.js.LICENSE.txt"
+    "main.css": "/Alifees/homePage/static/css/main.2e700dc6.chunk.css",
+    "main.js": "/Alifees/homePage/static/js/main.b358196c.chunk.js",
+    "main.js.map": "/Alifees/homePage/static/js/main.b358196c.chunk.js.map",
+    "runtime-main.js": "/Alifees/homePage/static/js/runtime-main.1ac86b08.js",
+    "runtime-main.js.map": "/Alifees/homePage/static/js/runtime-main.1ac86b08.js.map",
+    "static/js/2.01fa02f7.chunk.js": "/Alifees/homePage/static/js/2.01fa02f7.chunk.js",
+    "static/js/2.01fa02f7.chunk.js.map": "/Alifees/homePage/static/js/2.01fa02f7.chunk.js.map",
+    "index.html": "/Alifees/homePage/index.html",
+    "precache-manifest.f4b83e0d7e85846a1ce47700387e8d72.js": "/Alifees/homePage/precache-manifest.f4b83e0d7e85846a1ce47700387e8d72.js",
+    "service-worker.js": "/Alifees/homePage/service-worker.js",
+    "static/css/main.2e700dc6.chunk.css.map": "/Alifees/homePage/static/css/main.2e700dc6.chunk.css.map",
+    "static/js/2.01fa02f7.chunk.js.LICENSE.txt": "/Alifees/homePage/static/js/2.01fa02f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.424a8422.js",
+    "static/js/runtime-main.1ac86b08.js",
     "static/js/2.01fa02f7.chunk.js",
     "static/css/main.2e700dc6.chunk.css",
     "static/js/main.b358196c.chunk.js"
